@@ -1,0 +1,17 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "Discord",
+    "friendlyName": "Discord",
+    "description": "An amazing Budibase component!",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "text",
+        "key": "discordId",
+        "label": "Discord Server ID"
+      }
+    ]
+  }
+}
